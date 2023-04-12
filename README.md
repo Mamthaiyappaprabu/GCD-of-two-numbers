@@ -17,7 +17,9 @@ To write a program to find the GCD of two numbers using function.
 
 /*
 Program to find the gcd of two number using function.
+
 Developed by: MAMTHA I
+
 RegisterNumber:212222230076  
 */
 ```
